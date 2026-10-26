@@ -1,0 +1,1 @@
+import{j as n,R as a}from"./index-CPwrHj6o.js";import{u,r as o}from"./renderBlockStatus-DHTxcwce.js";function d(t){const{text:r,...s}=u(t),e=o(t,s);return e||n.jsx(a,{ns:t.runtime.ns,children:r})}export{d as default};

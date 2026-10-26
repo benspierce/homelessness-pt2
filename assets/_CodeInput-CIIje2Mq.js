@@ -1,0 +1,1 @@
+import{d as r,A as i,r as c,j as d}from"./index-CPwrHj6o.js";import{C as x}from"./CodeEditor-BlkTAq7I.js";function g(e){const{id:f,fields:t,language:l="olx",height:s="300px"}=e,[,a]=r(e,t.value,null),{value:u}=i(e,{fallback:null}),o=c.useCallback(n=>{a(n)},[a]);return d.jsx(x,{value:u??"",onChange:o,language:l,height:s})}export{g as default};

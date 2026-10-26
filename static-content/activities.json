@@ -1,0 +1,81 @@
+{
+  "activities": {
+    "homelessness/hs_activities_part1": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "homelessness",
+      "description": {
+        "en-Latn-US": "Activity bank for the Homelessness SBA, Part 1 (Comm360 internship): every screen the conversation parks in the right-hand pane (readings, highlighting tasks, the growing Disciplinary Perspective Comparison Table) and every question embedded in the chat. Launchable so it can be previewed on its own."
+      },
+      "editPath": "hs_activities_part1.olx",
+      "editSource": "file:content",
+      "id": "homelessness/hs_activities_part1",
+      "index": 81,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Vertical",
+      "title": {
+        "en-Latn-US": "Homelessness SBA Part 1 — Activities"
+      }
+    },
+    "homelessness/hs_activities_part2": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "homelessness",
+      "description": {
+        "en-Latn-US": "Activity bank for the Homelessness SBA, Part 2 (integrating disciplinary insights): every screen the conversation parks in the right-hand pane (the comparison table, concept maps, the exhibit film, the poem) and every question embedded in the chat. Launchable so it can be previewed on its own."
+      },
+      "editPath": "hs_activities_part2.olx",
+      "editSource": "file:content",
+      "id": "homelessness/hs_activities_part2",
+      "index": 83,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Vertical",
+      "title": {
+        "en-Latn-US": "Homelessness SBA Part 2 — Activities"
+      }
+    },
+    "homelessness/hs_sba_part1": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "homelessness",
+      "description": {
+        "en-Latn-US": "Homelessness SBA, Part 1 — Causes of Homelessness. The student interns at Comm360 (Community 360), a local nonprofit, with fellow interns Ty, Peggy, and Lacy under their supervisor Lianne Park. Together they brainstorm causes of homelessness, highlight causes in a community focus group transcript, choose causes to research, decide the problem calls for interdisciplinary research, and then review six sources (economics, public policy, psychology, real estate economics, political science, sociology), identifying each one's discipline, keywords, main insight, research question, evidence and methods, and underlying assumption, and building a Disciplinary Perspective Comparison Table. Built from the Sept 16 storyboard, slides 1-202."
+      },
+      "editPath": "hs_sba_part1.olx",
+      "editSource": "file:content",
+      "id": "homelessness/hs_sba_part1",
+      "index": 80,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Tabs",
+      "title": {
+        "en-Latn-US": "Homelessness SBA, Part 1 — Causes of Homelessness"
+      }
+    },
+    "homelessness/hs_sba_part2": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "homelessness",
+      "description": {
+        "en-Latn-US": "Homelessness SBA, Part 2 — Integrating Disciplinary Insights. Back at Comm360, the student and fellow interns Ty, Peggy, and Lacy (with supervisor Lianne Park) recall the six disciplinary insights from Part 1, then integrate them: they learn conceptual mapping from Repko's crime example and build a concept map of housing insecurity, choosing solid, dashed, or question-mark arrows by how strongly the evidence supports each connection; interpret a draft exhibit film that uses a storm-battered ship as a metaphor for housing instability; revise it to represent structural racial inequality; and write a poem that communicates the relationships the map revealed. Built from the Oct 13 storyboard, slides 203-311."
+      },
+      "editPath": "hs_sba_part2.olx",
+      "editSource": "file:content",
+      "id": "homelessness/hs_sba_part2",
+      "index": 82,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Tabs",
+      "title": {
+        "en-Latn-US": "Homelessness SBA, Part 2 — Integrating Disciplinary Insights"
+      }
+    }
+  },
+  "ok": true
+}

@@ -1,0 +1,1 @@
+import{r as i,j as u}from"./index-CPwrHj6o.js";import{p as a}from"./purify.es-DxCUJf2h.js";import{u as o,r as m}from"./renderBlockStatus-DHTxcwce.js";function x(r){const{text:t,...n}=o(r),e=i.useMemo(()=>t.trim()?a.sanitize(t):"",[t]),s=m(r,n);return s||(e?u.jsx("div",{dangerouslySetInnerHTML:{__html:e}}):null)}export{x as default};
